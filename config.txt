@@ -1,6 +1,6 @@
-token=NTIxMDc5OTY5MjU5MDYxMjQ4.Dv2GGw.RMu3K622VJJpDauhoOpOX4AprJM
-owner=515474180603641866
-prefix=1
-game=Youcef. VIP
+token=NTI1NDA4MDQ2NTA4NDA4ODUy.Dv2L7w.EYUHsid966nJplfopJ5Synjxi50
+owner=274160618448093185
+prefix=K
+game=Permium VIP
 stayinchannel=true
 songinstatus=true
